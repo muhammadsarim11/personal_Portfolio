@@ -1,0 +1,30 @@
+
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: "outfit",serif;
+    line-height: 1.6;
+    background-color:black;
+    color:white;
+    padding: 2vw 2vw;
+}
+
+h1{
+    font-size: 9.2vh;
+}
+/* Showcase */
+
+/* Footer */
+footer {
+    padding: 20px;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #333;
+    text-align: center;
+}
